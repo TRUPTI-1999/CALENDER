@@ -1,0 +1,58 @@
+.cal{
+    height:400px;
+    width: 35%;
+    background-color: black;
+    border: 5px;
+    border-color: azure;
+
+}
+.heading{
+    font-size: 16px;
+    padding-top: 150px;
+    text-align: center;
+    color: aliceblue;
+     
+} 
+thead{
+    color:aliceblue;
+    font-size: 16px;
+    /* padding-right: 10px; */
+    text-indent: 21px;
+
+    
+    
+}
+tbody{
+    color:antiquewhite;
+    font-size: 16px;
+    text-indent: 21px;
+    
+}
+.holiday{
+    color:red;
+}
+td:hover{
+    background-color: brown;
+    color: azure;
+}
+/* h1:hover{
+    background-color: brown;
+    color: blue;
+} */
+.container{
+    background-color: aqua;
+    height: 150px;
+    width: 100%;
+    background-image: url(./photos/img/nature.jpg);
+    background-size: 360PX 160px;
+    background-repeat: no-repeat;
+    color: azure;
+    font-size: 16px;
+    font-family: 'Segoe UI';
+}
+
+
+
+
+
+
