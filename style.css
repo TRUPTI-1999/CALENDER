@@ -45,6 +45,7 @@ td:hover{
     width: 100%; */
     background-image: url(./photos/img/nature.jpg);
     background-size: 360PX 160px;
+    overflow-x: hidden;
     background-repeat: no-repeat;
     color: azure;
     font-size: 16px;
